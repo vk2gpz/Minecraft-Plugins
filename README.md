@@ -5,4 +5,4 @@ You can find vk2gpz's plugin pages here.
 
 ### Plugins
 
- - [TokenEnchsnt](TokenEnchsnt/index.hml)
+ - [TokenEnchsnt](./TokenEnchsnt/index.hml)
