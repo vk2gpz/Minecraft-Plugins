@@ -5,4 +5,4 @@ You can find vk2gpz's plugin pages here.
 
 ### Plugins
 
- - [TokenEnchant](./TokenEnchant/index.hml)
+ - [TokenEnchant](./TokenEnchant/index.md)
